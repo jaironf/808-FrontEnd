@@ -18,5 +18,13 @@ export const albums: album[] = [
         artists: ["Dellafuente"],
         color: colors.orange,
      },
+     {
+        id: 2,
+        albumId: 2,
+        title: "Cosas que Brillan",
+        cover: "https://example.com/covers/cosas_que_brillan.png",
+        artists: ["Ébano"],
+        color: colors.purple,
+     },
      
 ]
